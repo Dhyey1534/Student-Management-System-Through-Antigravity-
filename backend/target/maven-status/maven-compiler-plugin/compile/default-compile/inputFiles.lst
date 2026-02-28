@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Project Antigravity\student-management-system\backend\src\main\java\com\sms\repository\StudentRepository.java
+C:\Users\HP\Desktop\Project Antigravity\student-management-system\backend\src\main\java\com\sms\controller\StudentController.java
+C:\Users\HP\Desktop\Project Antigravity\student-management-system\backend\src\main\java\com\sms\service\impl\StudentServiceImpl.java
+C:\Users\HP\Desktop\Project Antigravity\student-management-system\backend\src\main\java\com\sms\entity\Student.java
+C:\Users\HP\Desktop\Project Antigravity\student-management-system\backend\src\main\java\com\sms\exception\DuplicateResourceException.java
+C:\Users\HP\Desktop\Project Antigravity\student-management-system\backend\src\main\java\com\sms\exception\GlobalExceptionHandler.java
+C:\Users\HP\Desktop\Project Antigravity\student-management-system\backend\src\main\java\com\sms\config\CorsConfig.java
+C:\Users\HP\Desktop\Project Antigravity\student-management-system\backend\src\main\java\com\sms\exception\ResourceNotFoundException.java
+C:\Users\HP\Desktop\Project Antigravity\student-management-system\backend\src\main\java\com\sms\service\StudentService.java
+C:\Users\HP\Desktop\Project Antigravity\student-management-system\backend\src\main\java\com\sms\StudentManagementSystemApplication.java
